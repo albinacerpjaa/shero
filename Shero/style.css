@@ -402,10 +402,12 @@ body {
 
   .search-container1 .search-input {
     display: block; 
+    width: 450px;
   }
 
   .search-container1 .search-button1 {
     display: block; 
+    height: 53px;
   }
   .card-section {
     grid-template-columns: repeat(1, minmax(200px, 1fr));
